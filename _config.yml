@@ -1,4 +1,4 @@
-title: Title
+title: UNCITRAL WG III (ISDS Reform) Sixth Intersessional Meeting
 url: https://www.mlaw.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: A Singapore Government site built with Isomer
 permalink: none
 baseurl: ""
 exclude:

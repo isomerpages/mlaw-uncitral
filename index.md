@@ -4,10 +4,10 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: "The UNCITRAL WG III Intersessional "
+      title: The UNCITRAL WG III Intersessional
       subtitle: Singapore, 7 to 8 September 2023
       background: /images/hero-banner.png
       button: Contact Us

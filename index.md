@@ -11,6 +11,9 @@ sections:
       subtitle: Singapore, 7 to 8 September 2023
       background: /images/cbd-skyline1.jpg
       key_highlights:
+        - title: About the event
+          description: ""
+          url: ""
         - title: Programme
           description: ""
           url: /programme/

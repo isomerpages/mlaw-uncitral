@@ -9,7 +9,7 @@ sections:
   - hero:
       title: The Sixth UNCITRAL WG III Intersessional
       subtitle: Singapore, 7 to 8 September 2023
-      background: /images/cbd skyline.jpg
+      background: /images/cbd skyline1.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important

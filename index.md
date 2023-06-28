@@ -12,13 +12,13 @@ sections:
       background: /images/cbd-skyline1.jpg
       key_highlights:
         - title: Programme
-          description: Important highlight A is important
+          description: ""
           url: ""
         - title: Highlight B
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: Page A
-          description: Page A is important too
+          description: ""
           url: /privacy/
       url: /example-page/
   - infobar:

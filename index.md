@@ -20,6 +20,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      url: /example-page/
   - infobar:
       title: Infobar title
       subtitle: Subtitle

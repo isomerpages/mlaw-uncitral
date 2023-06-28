@@ -3,7 +3,7 @@ title: Programme
 permalink: /programme/
 description: ""
 ---
-| Day⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Time⠀⠀⠀⠀⠀ | Programme Outline |
+| Day⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Time⠀⠀⠀⠀⠀⠀⠀ | Programme Outline |
 | -------- | -------- | -------- |
 | 7 September     | 0900 - 0930    | Opening Remarks  |
 |       | 0930 - 1100    | Session 1 - A standing mechanism for ISDS: Rationale and Benefits  |

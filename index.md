@@ -14,13 +14,16 @@ sections:
         - title: Programme
           description: ""
           url: /programme/
+        - title: Visit Singapore
+          description: ""
+          url: ""
         - title: Registration
           description: ""
           url: /privacy/
   - infobar:
       title: Investor-State Dispute Settlement Reform
-      description: "The Sixth UNCITRAL WG III Intersessional will discuss reforms to
-        the Investor-State Dispute Settlement regime, including "
+      description: The Sixth UNCITRAL WG III Intersessional will discuss reforms to
+        the Investor-State Dispute Settlement regime, including
       button: Join us
       url: /faq/
   - resources:

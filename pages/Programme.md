@@ -3,8 +3,6 @@ title: Programme
 permalink: /programme/
 description: ""
 ---
-
-
 | Day | Time | Programme Outline |
 | -------- | -------- | -------- |
 | 7 September     | 0900 - 0930    | Opening Remarks  |
@@ -15,4 +13,3 @@ description: ""
 |       | 0900 - 0915    | Opening Remarks  |
 |      | 0900 - 0915    | Opening Remarks  |
 | 7 September     | 0900 - 0915    | Opening Remarks  |
-

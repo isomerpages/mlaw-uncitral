@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Programme
           description: Important highlight A is important
-          url: /example-page/
+          url: ""
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com

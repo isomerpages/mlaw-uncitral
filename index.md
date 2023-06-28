@@ -26,8 +26,4 @@ sections:
         the Investor-State Dispute Settlement regime, including
       button: Join us
       url: /faq/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---

@@ -14,12 +14,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - email: wg3intersessionalSG@mlaw.gov.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---

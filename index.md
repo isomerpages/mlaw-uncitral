@@ -20,11 +20,9 @@ sections:
         - title: Registration
           description: ""
           url: /privacy/
-      url: /example-page/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Investor-State Dispute Settlement Reform
+      description: Be part of the future of Investor-State Dispute Settlement
+      button: Join us
       url: /faq/
 ---

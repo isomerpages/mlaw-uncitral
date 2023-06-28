@@ -19,7 +19,7 @@ sections:
           url: /programme/
         - title: Registration
           description: ""
-          url: /privacy/
+          url: /registration/
   - infobar:
       title: Investor-State Dispute Settlement Reform
       description: The sixth intersessional meeting of UNCITRAL Working Group III

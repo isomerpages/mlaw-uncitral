@@ -24,10 +24,11 @@ sections:
       title: Investor-State Dispute Settlement Reform
       description: The Sixth UNCITRAL WG III Intersessional will discuss reforms to
         the Investor-State Dispute Settlement regime, including
-      button: Join us
       url: /faq/
   - infobar:
       description: Text go here this is the extent of how much you can type it is
         hundred and sixty characters which may not be a lot so we have to be
         careful as to what to say ya
+      button: Join us
+      url: /registration/
 ---

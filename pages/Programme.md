@@ -15,3 +15,6 @@ description: ""
 |      | 1115 - 1245    | Session 6 - Key common implementation and enforcement issues  |
 |      | 1415 - 1700    | Roundtable discussion (open to Working Group III delegates only)  |
 |      | 1700 - 1715    | Closing remarks  |
+
+
+Programme is subject to change. The final programme will be announced in due course.

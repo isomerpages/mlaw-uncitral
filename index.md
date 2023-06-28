@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Programme
           description: ""
-          url: ""
+          url: /programme/
         - title: Updates
           description: ""
           url: https://gmail.com

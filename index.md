@@ -7,11 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: The UNCITRAL WG III Intersessional
+      title: The Sixth UNCITRAL WG III Intersessional
       subtitle: Singapore, 7 to 8 September 2023
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/cbd skyline.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important

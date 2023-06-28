@@ -4,8 +4,6 @@ permalink: /terms-of-use/
 ---
 ### **Terms of Use**
 
-#### **General Legal Information**
-
 1.  **Agreement**
     
     i. Thank you for visiting MLAW.GOV.SG, the official digital service of the Ministry of Law of the Republic of Singapore, and any applications or services related to or linked to or from this digital service (henceforth collectively known as **“the Digital Service”**). The digital service is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (**“MLAW”**).  

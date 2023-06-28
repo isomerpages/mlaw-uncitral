@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: UNCITRAL WG III (ISDS Reform) Sixth Intersessional Meeting
+description: A Singapore Government site built with Isomer
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""

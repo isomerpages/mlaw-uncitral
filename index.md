@@ -14,15 +14,17 @@ sections:
         - title: Programme
           description: ""
           url: /programme/
-        - title: Updates
-          description: ""
-          url: https://gmail.com
         - title: Registration
           description: ""
           url: /privacy/
   - infobar:
       title: Investor-State Dispute Settlement Reform
-      description: Be part of the future of Investor-State Dispute Settlement
+      description: "The Sixth UNCITRAL WG III Intersessional will discuss reforms to
+        the Investor-State Dispute Settlement regime, including "
       button: Join us
       url: /faq/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---

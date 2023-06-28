@@ -14,10 +14,10 @@ sections:
         - title: Programme
           description: ""
           url: ""
-        - title: Highlight B
+        - title: Updates
           description: ""
           url: https://gmail.com
-        - title: Page A
+        - title: Registration
           description: ""
           url: /privacy/
       url: /example-page/

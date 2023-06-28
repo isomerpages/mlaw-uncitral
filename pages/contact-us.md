@@ -5,12 +5,12 @@ permalink: /contact-us/
 agency_name: the organisers
 locations:
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
+      - 100 High Street
+      - The Treasury
+      - Singapore 179434
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    maps_link: ""
+    title: Ministry of Law
 contacts:
   - content:
       - phone: +65 6123 4567

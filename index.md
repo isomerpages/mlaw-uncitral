@@ -11,7 +11,7 @@ sections:
       subtitle: Singapore, 7 to 8 September 2023
       background: /images/cbd-skyline1.jpg
       key_highlights:
-        - title: Highlight A
+        - title: Programme
           description: Important highlight A is important
           url: https://google.com
         - title: Highlight B

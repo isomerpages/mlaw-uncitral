@@ -1,6 +1,6 @@
 title: UNCITRAL WG III (ISDS Reform) Sixth Intersessional Meeting
 url: https://www.wg3intersessional.mlaw.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/mlaw-logo_2.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2jl9j0fnd0ocr.amplifyapp.com
 prod: https://master.d2jl9j0fnd0ocr.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/mlaw-logo_2.png
 is_government: true
 google_analytics: ""
 google_analytics_ga4: ""

@@ -13,13 +13,10 @@ sections:
       key_highlights:
         - title: About the event
           description: ""
-          url: ""
+          url: /about/
         - title: Programme
           description: ""
           url: /programme/
-        - title: Visit Singapore
-          description: ""
-          url: ""
         - title: Registration
           description: ""
           url: /privacy/

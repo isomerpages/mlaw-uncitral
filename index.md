@@ -22,14 +22,12 @@ sections:
           url: /privacy/
   - infobar:
       title: Investor-State Dispute Settlement Reform
-      description: The Sixth UNCITRAL WG III Intersessional will discuss reforms to
-        the Investor-State Dispute Settlement regime, including test go here
-        again maybe we should doub
+      description: The sixth intersessional meeting of UNCITRAL Working Group III
       url: /faq/
   - infobar:
-      description: Text go here this is the extent of how much you can type it is
-        hundred and sixty characters which may not be a lot so we have to be
-        careful as to what to say ya
-      button: Join us
+      description: The meeting will discuss a possible standing and appellate
+        mechanism for investor-State Dispute Settlement, featuring a line-up of
+        distinguished speakers.
+      button: Register now
       url: /registration/
 ---

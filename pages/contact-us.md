@@ -13,7 +13,7 @@ locations:
     title: Ministry of Law
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: ""
       - email: enquiries@abc.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback

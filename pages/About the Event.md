@@ -3,8 +3,16 @@ title: About the Event
 permalink: /about/
 description: ""
 ---
-The sixth intersessional meeting of the United Nations Commission on International Trade Law (UNCITRAL) Working Group III on investor-State dispute settlement (ISDS) reforms will be held from 7 to 8 September 2023. Jointly organised by the Singapore Ministry of Law (MinLaw) and UNCITRAL, and supported by the National University of Singapore's Centre for International Law (CIL), the meeting will facilitate the exchange of views on a possible standing multilateral mechanism and appellate mechanism in ISDS.
+Jointly organised by the Singapore Ministry of Law (MinLaw) and the United Nations Commission on International Trade Law (UNCITRAL), and supported by the National University of Singapore's Centre for International Law (CIL), the Sixth Intersessional Meeting of Working Group III will focus on the proposed standing multilateral mechanism and appellate mechanism for investor-State dispute settlement (ISDS).
 
-The meeting will feature a diverse line-up of speakers from various stakeholder groups, such as government officials, legal practitioners, and academics. Topics to be discussed include: the key objectives and challenges of a standing mechanism; possible structure, scope and governance of a standing mechanism; a standing *vs.* ad hoc appellate mechanism; grounds and standard of appeal; compatibility with the existing ISDS system; and issues relating to the recognition and enforcement of decisions emanating from a standing and/or appellate mechanism.
+The standing multilateral mechanism and appellate mechanism are two distinct, though overlapping, proposals. Of [the range of reform elements being developed by Working Group III](https://uncitral.un.org/en/working_groups/3/investor-state), it is these two reform elements that will, if adopted, involve the most significant structural change to the ISDS landscape.
 
-The sixth intersessional meeting will be held in Singapore at the Sands Expo & Convention Centre located in Marina Bay Sands, Singapore, with the possibility of remote participation.
+Working Group III delegates have had the opportunity to discuss and comment on initial drafts of provisions to implement these two reform elements. Background and initial drafts on the standing multilateral mechanism may be found [here](https://uncitral.un.org/en/multilateralpermanentinvestmentcourt), and on the appellant mechanism, [here](https://uncitral.un.org/en/appellatemechanism).
+
+This Sixth Intersessional Meeting will be an opportunity for delegates to delve deeper into the issues that will need to be considered in developing these reform options, and canvass the range of considerations and perspectives on these issues.
+
+Interested local and international stakeholders in ISDS and dispute resolution are invited to attend the panel discussions that are open to the public, to learn more about these significant reform proposals.
+
+Remote participation for Working Group III delegates and observers is possible. Simultaneous interpretation between English and French will be provided.
+
+![](/images/hero-banner.png)

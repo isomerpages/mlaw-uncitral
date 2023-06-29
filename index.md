@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: UNCITRAL WG III (ISDS Reform) Sixth Intersessional Meeting
-      subtitle: Singapore, 7 to 8 September 2023
+      title: UNCITRAL Working Group III on ISDS Reform
+      subtitle: Sixth Intersessional Meeting in Singapore
       background: /images/cbd-skyline1.jpg
       key_highlights:
         - title: About the event

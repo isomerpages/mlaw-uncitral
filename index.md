@@ -29,6 +29,5 @@ sections:
       description: The proposed reforms impact the future of ISDS. We invite
         interested local and international stakeholders to attend the meeting to
         learn more.
-      button: Register now
       url: /registration/
 ---

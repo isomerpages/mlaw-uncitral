@@ -3,9 +3,9 @@ title: Registration
 permalink: /registration/
 description: ""
 ---
-##### **Representatives from States, Regional Economic Integrated Organisations and invited Observers**
+##### **Working Group III delegates and observers**
 
-A separate registration form has been disseminated to you through UNCITRAL.
+You should have received a unique registration form from the UNCITRAL Secretariat. If you have not, you may write in to WG3IntersessionalSG@mlaw.gov.sg.
 
-##### **Members of Public**
-Please register here.
+##### **Other interested stakeholders**
+A registration link will be provided on this website in due course.

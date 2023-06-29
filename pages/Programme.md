@@ -17,4 +17,4 @@ description: ""
 |      | 1645    | Closing remarks  |
 
 
-Programme is subject to change. The final programme will be announced in due course.
+*The finalised programme, with speakers, will be announced in due course.*

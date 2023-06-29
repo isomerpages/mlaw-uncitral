@@ -22,8 +22,8 @@ sections:
           url: /registration/
   - infobar:
       title: Investor-State Dispute Settlement Reform
-      description: The sixth intersessional meeting of UNCITRAL Working Group III held
-        at the Sands Expo & Convention Centre in Singapore
+      description: A meeting to facilitate future progress in Working Group III on the
+        proposed ISDS standing multilateral mechanism and appellate mechanism
       url: /faq/
   - infobar:
       description: The meeting will discuss a possible standing and appellate

@@ -7,9 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: UNCITRAL Working Group III on ISDS Reform
-      subtitle: Sixth Intersessional Meeting in Singapore, 7 to 8 September 2023 at
-        the Sands Expo & Convention Centre
+      title: Sixth Intersessional Meeting of UNCITRAL Working Group III
+      subtitle: Singapore, 7 to 8 September 2023, at the Sands Expo & Convention Centre
       background: /images/cbd-skyline1.jpg
       key_highlights:
         - title: About the event

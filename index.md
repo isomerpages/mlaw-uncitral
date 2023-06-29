@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Sixth Intersessional Meeting of UNCITRAL Working Group III
-      subtitle: Singapore, 7 to 8 September 2023, at the Sands Expo & Convention Centre
+      subtitle: 7 to 8 September 2023, at the Sands Expo & Convention Centre in Singapore
       background: /images/cbd-skyline1.jpg
       key_highlights:
         - title: About the event

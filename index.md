@@ -27,9 +27,9 @@ sections:
         proposed ISDS standing multilateral mechanism and appellate mechanism
       url: /faq/
   - infobar:
-      description: The meeting will discuss a possible standing and appellate
-        mechanism for investor-State Dispute Settlement, featuring a line-up of
-        distinguished speakers.
+      description: The proposed reforms impact the future of ISDS. We invite
+        interested local and international stakeholders to attend the meeting to
+        learn more.
       button: Register now
       url: /registration/
 ---

@@ -1,32 +1,33 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: UNCITRAL WG III (ISDS Reform) Sixth Intersessional Meeting
+description: A Singapore Government site built with Isomer
+image: /images/mlaw-logo_2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Sixth Intersessional Meeting of UNCITRAL Working Group III
+      subtitle: 7 to 8 September 2023, at the Sands Expo & Convention Centre in Singapore
+      background: /images/cbd-skyline1.jpg
+      key_highlights:
+        - title: About the event
+          description: ""
+          url: /about/
+        - title: Programme
+          description: ""
+          url: /programme/
+        - title: Registration
+          description: ""
+          url: /registration/
+  - infobar:
+      title: Investor-State Dispute Settlement Reform
+      description: A meeting to facilitate future progress in Working Group III on the
+        proposed ISDS standing multilateral mechanism and appellate mechanism
+      url: /faq/
+  - infobar:
+      description: The proposed reforms impact the future of ISDS. We invite
+        interested local and international stakeholders to attend the meeting to
+        learn more.
+      url: /registration/
 ---
-

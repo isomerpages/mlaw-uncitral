@@ -6,7 +6,7 @@ description: ""
 | Day⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Time (GMT+8)⠀⠀⠀⠀⠀⠀ | Programme Outline |
 | -------- | -------- | -------- |
 | Thursday, 7 September 2023     | 0900 - 0925    | Opening Remarks  |
-|       | 0925 - 1100    | Session 1 - A standing mechanism for ISDS: Rationale and Benefits  |
+|       | 0925 - 1100    | Session 1 - A standing mechanism for ISDS: Rationale and Implications  |
 |       | 1115 - 1300    | Session 2 - Structure, scope and governance of a standing mechanism for ISDS  |
 |       | 1430 - 1600    | Session 3 - Composition and procedure of a standing mechanism for ISDS, including stakeholder participation  |
 |      | 1615 - 1800    | Session 4 - Issues related to an appellate mechanism  |

@@ -7,7 +7,7 @@ Jointly organised by the Singapore Ministry of Law (MinLaw) and the United Natio
 
 The standing multilateral mechanism and appellate mechanism are two distinct, though overlapping, proposals. Of [the range of reform elements being considered by Working Group III](https://uncitral.un.org/en/working_groups/3/investor-state), it is these two reform elements that involve the most significant structural change to the ISDS landscape.
 
-Working Group III delegates have had the opportunity to discuss and comment on initial drafts of provisions to implement these two reform elements. Background and initial drafts on the standing multilateral mechanism may be found [here](https://uncitral.un.org/en/multilateralpermanentinvestmentcourt), and on the appellant mechanism, [here](https://uncitral.un.org/en/appellatemechanism).
+Working Group III delegates have had the opportunity to discuss and comment on initial drafts of provisions to implement these two reform elements. Background and initial drafts on the standing multilateral mechanism may be found [here](https://uncitral.un.org/en/multilateralpermanentinvestmentcourt), and on the appellate mechanism, [here](https://uncitral.un.org/en/appellatemechanism).
 
 This Sixth Intersessional Meeting will be an opportunity for delegates to delve deeper into the issues that will need to be considered in developing these reform options, and canvass the range of considerations and perspectives on these issues.
 

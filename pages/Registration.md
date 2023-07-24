@@ -8,4 +8,4 @@ description: ""
 You should have received a unique registration form from the UNCITRAL Secretariat.
 
 ##### **Other interested stakeholders**
-A registration link will be provided on this website in due course.
+Click [here](https://form.gov.sg/64a7bcccb768410012034100) for the registration link.

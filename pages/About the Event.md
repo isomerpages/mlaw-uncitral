@@ -13,6 +13,6 @@ This Sixth Intersessional Meeting will be an opportunity for delegates to delve 
 
 Interested local and international stakeholders in ISDS and dispute resolution are invited to attend the panel discussions that are open to the public, to learn more about these significant reform proposals.
 
-Remote participation for Working Group III delegates and observers is possible. Simultaneous interpretation between English and French will be provided.
+Remote participation is available for UNCITRAL delegates and invited observers. Simultaneous interpretation between English and French will be provided.
 
 ![](/images/hero-banner.png)

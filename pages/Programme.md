@@ -18,3 +18,5 @@ description: ""
 
 
 *The finalised programme, with speakers, will be announced in due course.*
+
+[Singapore](/files/singaporecomments.pdf)

@@ -16,5 +16,4 @@ description: ""
 |      | 1400 - 1645    | Roundtable discussion (open to Working Group III delegates only)  |
 |      | 1645 - 1700   | Closing remarks  |
 
-
-*The finalised programme, with speakers, will be announced in due course.*
+[](/files/minlawuncitralprogramme.pdf)![](/images/programme.jpg)

@@ -16,4 +16,5 @@ description: ""
 |      | 1400 - 1645    | Roundtable discussion (open to Working Group III delegates only)  |
 |      | 1645 - 1700   | Closing remarks  |
 
+Download the Programme E-Booklet here. Programme is accurate as of 18 August 2023.
 [![](/images/programme.jpg)](/files/minlawuncitralprogramme.pdf)

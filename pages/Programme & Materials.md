@@ -10,11 +10,6 @@ Download the E-Programme Booklet by clicking on the image below. Programme is ac
 | -------- | -------- | -------- |
 |   |   |     |
 
-
-
-Download the E-Programme Booklet by clicking on the image below. Programme is accurate as of 18 August 2023.
-
-
 | Day⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Time (GMT+8)⠀⠀⠀⠀⠀⠀ | Programme Outline |
 | -------- | -------- | -------- |
 | Thursday, 7 September 2023     | 0900 - 0925    | Opening Remarks  |

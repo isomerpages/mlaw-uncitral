@@ -3,6 +3,9 @@ title: Programme & Materials
 permalink: /programme/
 description: ""
 ---
+Download the E-Programme Booklet by clicking on the image below. Programme is accurate as of 18 August 2023.
+[![](/images/programme.jpg)](/files/minlawuncitralprogramme.pdf)
+
 | Day⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Time (GMT+8)⠀⠀⠀⠀⠀⠀ | Programme Outline |
 | -------- | -------- | -------- |
 | Thursday, 7 September 2023     | 0900 - 0925    | Opening Remarks  |
@@ -15,6 +18,3 @@ description: ""
 |      | 1115 - 1230    | Session 6 - Key common implementation and enforcement issues  |
 |      | 1400 - 1645    | Roundtable discussion (open to Working Group III delegates only)  |
 |      | 1645 - 1700   | Closing remarks  |
-
-Download the E-Programme Booklet by clicking on the image below. Programme is accurate as of 18 August 2023.
-[![](/images/programme.jpg)](/files/minlawuncitralprogramme.pdf)

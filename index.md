@@ -14,7 +14,7 @@ sections:
         - title: About the event
           description: ""
           url: /about/
-        - title: Programme
+        - title: Programme & Materials
           description: ""
           url: /programme/
         - title: Registration

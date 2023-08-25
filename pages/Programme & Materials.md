@@ -15,3 +15,4 @@ Please refer to the informal documents prepared to facilitate informal discussio
 *   [Draft provisions on selection and appointment](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/draft_provisions_on_selection_and_appointment_sept.2023.pdf)
 *   [Draft provisions on an appellate mechanism](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/draft_provisions_on_an_appellate_mechanism_sept.2023.pdf)
 *   [Financing of a standing mechanism](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/financing_of_a_standing_mechanism_sept.2023.pdf)
+*  [Pertinent elements of selected permanent international courts and tribunals](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/pertinent_elements_of_selected_international_courts_0.pdf)

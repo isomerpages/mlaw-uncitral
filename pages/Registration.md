@@ -8,7 +8,7 @@ description: ""
 You will have the option of attending in-person or remotely. If you have not already received the dedicated registration link from the UNCITRAL Secretariat, kindly email wg3intersessionalSG@mlaw.gov.sg to obtain this registration link.
 
 ##### **Other interested stakeholders**
-Please be informed that for non-UNCITRAL delegates, the event is in-person only. Click [here](https://form.gov.sg/64a7bcccb768410012034100) for the registration link.
+As the event has reached capacity, registration for the general public is closed. If you have registered and have yet to receive our response, you will receive a response shortly.
 
 
 

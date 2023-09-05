@@ -5,7 +5,13 @@ description: ""
 ---
 Download the E-Programme Booklet by clicking [here](https://drive.google.com/file/d/1i6-e_TpcHJQv09rt2Yyq5CN6n0ZLqAfI/view?usp=sharing ). Programme is accurate as of 4 September 2023.
 
-![](/images/programme.jpg)
+
+| ![](/images/programme.jpg) | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+| -------- | -------- | -------- |
+|      |      |      |
+
+
+
 
 
 Please refer to the informal documents prepared to facilitate informal discussions at the Sixth Intersessional Meeting of Working Group III:

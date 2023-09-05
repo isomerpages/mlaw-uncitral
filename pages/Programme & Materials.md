@@ -6,6 +6,14 @@ description: ""
 Download the E-Programme Booklet by clicking [here](https://drive.google.com/file/d/1i6-e_TpcHJQv09rt2Yyq5CN6n0ZLqAfI/view?usp=sharing ). Programme is accurate as of 4 September 2023.
 
 
+| [![](/images/programme.jpg)](https://drive.google.com/file/d/1i6-e_TpcHJQv09rt2Yyq5CN6n0ZLqAfI/view?usp=sharing) | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+| -------- | -------- | -------- |
+|      |      |      |
+
+
+
+
+
 Please refer to the informal documents prepared to facilitate informal discussions at the Sixth Intersessional Meeting of Working Group III:
 *   [Draft statute of a standing mechanism](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/draft_statute_of_a_standing_mechanism_sept.2023.pdf)
 *   [Draft provisions on selection and appointment](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/draft_provisions_on_selection_and_appointment_sept.2023.pdf)

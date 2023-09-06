@@ -5,7 +5,7 @@ description: ""
 ---
 ##### **UNCITRAL delegates and invited observers**
 
-You will have the option of attending in-person or remotely. If you have not already received the dedicated registration link from the UNCITRAL Secretariat, kindly email wg3intersessionalSG@mlaw.gov.sg to obtain this registration link. Registration is closed with effect from 6:00pm, 6 September 2023, Singapore Time (GMT+8).
+You will have the option of attending in-person or remotely. Registration is closed with effect from 6:00pm, 6 September 2023, Singapore Time (GMT+8).
 
 ##### **Other interested stakeholders**
 As the event has reached capacity, registration for the general public is closed. If you have registered and have yet to receive our response, you will receive a response shortly.

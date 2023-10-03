@@ -22,4 +22,7 @@ Please refer to the informal documents prepared to facilitate informal discussio
 | -------- | -------- | -------- |
 |      |      |      |
 
-dfdf
+The slides used for presentation can be found here:
+*   [Session 2](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/panel_2_-_chin_heng_ong_-_eusipa.pdf)
+*   [Session 5](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/singapore_-_compatibility_of_an_appellate_mechanism_-_ppt_-_audience_copy_-_2023.09.06_rev_for_publication.pdf)
+*   Session 6: [(1)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/panel_6_mk_slides.pdf), [(2)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/unictral_wgiii_-_6th_intersessional_-_panel_6_-_ppt_-_lb.pdf), [(3)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/session_6_-_key_common_implementation_and_enforcement_issues-_v2.pdf)

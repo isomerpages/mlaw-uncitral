@@ -3,7 +3,7 @@ title: Videos
 permalink: /videos/
 description: ""
 ---
-**The videos in French can be found at the bottom of the page.**
+Video recordings of the Intersessional can be found here.
 
 Opening remarks
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/keG8Ms_Obxk?si=m1mqyIQkr2xqwla8" height="315" width="560"></iframe>

@@ -34,18 +34,18 @@ Closing Remarks
 
 **Videos in French**
 
-Opening Remarks: [(1)](https://youtu.be/b_jgVBUj5KY), [(2)](https://youtu.be/sR9Y6ATcbQE), [(3)](https://youtu.be/2fBS5kaBDaE)
+Discours d'ouverture: [(1)](https://youtu.be/b_jgVBUj5KY), [(2)](https://youtu.be/sR9Y6ATcbQE), [(3)](https://youtu.be/2fBS5kaBDaE)
 
-[Session 1](https://youtu.be/ZD-G_5AMdI8)
+[Séance 1](https://youtu.be/ZD-G_5AMdI8)
 
-[Session 2](https://youtu.be/L6t37CYn9-0)
+[Séance 2](https://youtu.be/L6t37CYn9-0)
 
-[Session 3](https://youtu.be/yzlO_w6QS8A)
+[Séance 3](https://youtu.be/yzlO_w6QS8A)
 
-[Session 4](https://youtu.be/G9sajjpeDOA)
+[Séance 4](https://youtu.be/G9sajjpeDOA)
 
-[Session 5](https://youtu.be/a2uKieuHNsw)
+[Séance 5](https://youtu.be/a2uKieuHNsw)
 
-[Session 6](https://youtu.be/QeMCFGz2Gdk)
+[Séance 6](https://youtu.be/QeMCFGz2Gdk)
 
-Closing Remarks: [(1)](https://youtu.be/zOQ9jEEB9DI), [(2)](https://youtu.be/HFeFHFLbOCE)
+Discours de clôture: [(1)](https://youtu.be/zOQ9jEEB9DI), [(2)](https://youtu.be/HFeFHFLbOCE)

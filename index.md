@@ -22,7 +22,7 @@ sections:
           url: /registration/
         - title: Videos
           description: ""
-          url: ""
+          url: /videos/
   - infobar:
       title: Investor-State Dispute Settlement Reform
       description: A meeting to facilitate future progress in Working Group III on the

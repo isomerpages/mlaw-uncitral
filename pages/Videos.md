@@ -32,7 +32,7 @@ Closing Remarks
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-WHIKOho9ck?si=3HTQeDiWwCr-duBp" height="315" width="560"></iframe>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VNik17oPWSY?si=NQVP5drQmE1UsmGM" height="315" width="560"></iframe>
 
-**Vidéo en français**
+**Vidéos en français**
 
 Discours d'ouverture: [(1)](https://youtu.be/b_jgVBUj5KY), [(2)](https://youtu.be/sR9Y6ATcbQE), [(3)](https://youtu.be/2fBS5kaBDaE)
 

@@ -2,7 +2,16 @@
 title: Programme & Materials
 permalink: /programme/
 description: ""
+variant: markdown
 ---
+
+[Summary of the inter-sessional meeting on investor-State dispute settlement (ISDS) reform submitted by the Government of Singapore](/files/V2308278.pdf)
+
+| | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+| -------- | -------- | -------- |
+|      |      |      |
+
+
 Download the E-Programme Booklet by clicking [here](https://drive.google.com/file/d/1i6-e_TpcHJQv09rt2Yyq5CN6n0ZLqAfI/view?usp=sharing ). Programme is accurate as of 4 September 2023.
 
 

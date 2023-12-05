@@ -2,6 +2,7 @@
 title: Programme & Materials
 permalink: /programme/
 description: ""
+variant: markdown
 ---
 Download the E-Programme Booklet by clicking [here](https://drive.google.com/file/d/1i6-e_TpcHJQv09rt2Yyq5CN6n0ZLqAfI/view?usp=sharing ). Programme is accurate as of 4 September 2023.
 
@@ -26,3 +27,9 @@ The slides used for presentation can be found here:
 *   Session 2: Structure, Scope and Governance of a Standing Mechanism for ISDS: [(1)](/files/panel2pashahsiehdiagrams.pdf), [(2)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/panel_2_-_chin_heng_ong_-_eusipa.pdf)
 *   Session 5: Compatibility of an Appellate Mechanism with the Existing ICSID System: [(1)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/singapore_-_compatibility_of_an_appellate_mechanism_-_ppt_-_audience_copy_-_2023.09.06_rev_for_publication.pdf)
 *   Session 6 Key Common Implementation and Enforcement Issues: [(1)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/panel_6_mk_slides.pdf), [(2)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/unictral_wgiii_-_6th_intersessional_-_panel_6_-_ppt_-_lb.pdf), [(3)](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/session_6_-_key_common_implementation_and_enforcement_issues-_v2.pdf)
+
+| | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+| -------- | -------- | -------- |
+|      |      |      |
+
+[Summary of the inter-sessional meeting on investor-State dispute settlement (ISDS) reform submitted by the Government of Singapore](/files/V2308278.pdf)
